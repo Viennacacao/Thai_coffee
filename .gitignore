@@ -1,0 +1,16 @@
+# 工作区记忆（含个人数据，不入库）
+.workbuddy/
+
+# 中间产物：原始抓取图与备份（已在 html_assets 与内嵌 HTML 中留存）
+images_raw/
+images_916/
+images_916_bak/
+xhs_manifest.json
+
+# Python
+__pycache__/
+*.pyc
+*.log
+
+# 系统
+.DS_Store
