@@ -3,9 +3,11 @@
 
 # 中间产物：原始抓取图与备份（已在 html_assets 与内嵌 HTML 中留存）
 images_raw/
+images_raw32/
 images_916/
 images_916_bak/
 xhs_manifest.json
+ig_fetch_manifest.json
 
 # Python
 __pycache__/
